@@ -42,7 +42,7 @@ after making one or two mistakes.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-http://g.recordit.co/ukJk6kkWpF.gif
+<img src="http://g.recordit.co/ukJk6kkWpF.gif" width=250><br>
 http://g.recordit.co/eKmzb83CEu.gif
 
 ## Reflection Questions
