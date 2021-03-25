@@ -57,14 +57,9 @@ Here's a walkthrough of implemented user stories:
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
   
-  A challenge I encountered in creating my submission was the implementation of the mistake counter being displayed.  I wanted to create a counter so the user would actually know how many mistakes they had
-  left before they would lose the game.  The actual code for the counter was fairly easy to write, but displaying it was more difficult than I expected. My first idea was to create a <p> tag in the HTML file 
-  with the text "Chances left: " and somehow inject Javascript code that would change the number.  Finding that "somehow" ended up eating a large portion of my time, and I still wasn't any closer to a solution.
+  A challenge I encountered in creating my submission was the implementation of the mistake counter being displayed.  I wanted to create a counter so the user would actually know how many mistakes they had left before they would lose the game.  The actual code for the counter was fairly easy to write, but displaying it was more difficult than I expected. My first idea was to create a <p> tag in the HTML file with the text "Chances left: " and somehow inject Javascript code that would change the number.  Finding that "somehow" ended up eating a large portion of my time, and I still wasn't any closer to a solution.
 
-  After some research on the DOM, I saw that it was possible to modify HTML with Javascript and I had an idea.  First, I created that <p> tag with an ID given as "Mistakes", but I did not insert any text into the body
-  of the tag.  Next, I wrote a function in Javascript that formed a string with the given number of mistakes, but I flipped it so the user would see it as "chances". I believe that this choice made it much clearer for 
-  the user to understand.  Finally, I used the getElementByID function with the "Mistakes" ID as an argument and changed its inner HTML to the string I created earlier.  I called this function wherever the number of
-  chances should decrement.
+  After some research on the DOM, I saw that it was possible to modify HTML with Javascript and I had an idea.  First, I created that <p> tag with an ID given as "Mistakes", but I did not insert any text into the body of the tag.  Next, I wrote a function in Javascript that formed a string with the given number of mistakes, but I flipped it so the user would see it as "chances". I believe that this choice made it much clearer for the user to understand.  Finally, I used the getElementByID function with the "Mistakes" ID as an argument and changed its inner HTML to the string I created earlier.  I called this function wherever the number of chances should decrement.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
