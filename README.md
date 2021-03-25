@@ -6,7 +6,7 @@ Submitted by: **Ashwin Sampath**
 
 Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/working-organic-epoch
 
 ## Required Functionality
 
@@ -42,7 +42,8 @@ after making one or two mistakes.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]http://g.recordit.co/ukJk6kkWpF.gif
+http://g.recordit.co/ukJk6kkWpF.gif
+http://g.recordit.co/eKmzb83CEu.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
