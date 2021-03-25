@@ -43,7 +43,7 @@ after making one or two mistakes.
 
 Here's a walkthrough of implemented user stories:
 <img src="http://g.recordit.co/ukJk6kkWpF.gif" width=250><br>
-http://g.recordit.co/eKmzb83CEu.gif
+<img src="http://g.recordit.co/eKmzb83CEu.gif" width=250><br>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
